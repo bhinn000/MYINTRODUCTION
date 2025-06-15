@@ -21,6 +21,11 @@ A recent graduate with a **Bachelor in Information Management** from [**St. Xavi
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhinn000&layout=compact)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://linkedin.com/in/bhintunashakya/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=flat)](https://github.com/bhinn000)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&style=flat)](mailto:bhintunash@gmail.com)
+
+
 I'm a passionate **.NET backend developer** with hands-on experience in:
 - Building RESTful APIs using **ASP.NET Core**
 - Designing and managing **SQL Server** databases
