@@ -19,6 +19,8 @@ A recent graduate with a **Bachelor in Information Management** from [**St. Xavi
 
 ![Bhintuna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhinn000&show_icons=true&theme=default)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhinn000&layout=compact)
+
 I'm a passionate **.NET backend developer** with hands-on experience in:
 - Building RESTful APIs using **ASP.NET Core**
 - Designing and managing **SQL Server** databases
