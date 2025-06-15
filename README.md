@@ -43,8 +43,6 @@ I'm a passionate **.NET backend developer** with hands-on experience in:
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bhinn000&theme=default)
 ![Trophy](https://github-profile-trophy.vercel.app/?username=bhinn000&theme=flat&column=4)
-![Visitor Count](https://komarev.com/ghpvc/?username=bhinn000&label=Profile%20views&color=0e75b6&style=flat)
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=yourusername)](https://wakatime.com/)
 [![Bhintuna's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bhinn000&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
