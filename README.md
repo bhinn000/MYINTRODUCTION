@@ -17,6 +17,8 @@ A recent graduate with a **Bachelor in Information Management** from [**St. Xavi
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 
+![Bhintuna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhinn000&show_icons=true&theme=default)
+
 I'm a passionate **.NET backend developer** with hands-on experience in:
 - Building RESTful APIs using **ASP.NET Core**
 - Designing and managing **SQL Server** databases
